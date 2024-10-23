@@ -1,6 +1,3 @@
-# Python-list
-Simple Python code for creating a simple list in Python and accessing the elements in a list.
-
 # Python Lists
 
 This Python script demonstrates basic operations with lists, including creating lists, accessing elements, and slicing lists.
